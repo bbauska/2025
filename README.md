@@ -2,14 +2,15 @@
 March 20, 2025 a start to the fight against big fucks small. fuck libertarian liars.
 Link: www.tutsplus.com
 
-Step 1: Learn HTML and CSS(do not ignore).
-Step 2: Responsive Design and Design Concepts.
-Step 3: Javascript and jQuery(tutsplus has a free jquery course).
-Step 4: A Programming language. Php is easy. Or try Ruby.
-Step 5: Pick up some sql basics.
-Step 6: Develop a basic app that you find interesting.
-Step 7: Get used to using a web framework. Laravel for php or rails for ruby.
-
+<ol>
+<li>Step 1: Learn HTML and CSS(do not ignore).</li>
+<li>Step 2: Responsive Design and Design Concepts.</li>
+<li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
+<li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
+<li>Step 5: Pick up some sql basics.</li>
+<li>Step 6: Develop a basic app that you find interesting.</li>
+<li>Step 7: Get used to using a web framework. Laravel for php or rails for ruby.</li>
+</ol>
 Those are somethings I can think of right now. It does take a good amount of time and practice 
 to understand the different pieces. So don't expect to start today and finish it off by tomorrow. 
 The key is to keep learning and keep doing it. Just make sure you love what you do and you'll 
