@@ -30,3 +30,8 @@ Clever programmer
 Code damn
 My code school
 DesignCourse
+
+Pride is the unwillingness to be wrong.
+Humility is the opposite.
+
+
