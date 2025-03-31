@@ -31,7 +31,7 @@ Code damn
 My code school
 DesignCourse
 
-<h2>Pride is the unwillingness to be wrong.</h2><br>
+<h2>Pride is the unwillingness to be wrong.</h2>
 <h2>Humility is the opposite.</h2>
 
 
