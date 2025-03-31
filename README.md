@@ -34,4 +34,4 @@ DesignCourse
 <h2>Pride is the unwillingness to be wrong.</h2>
 <h2>Humility is the opposite.</h2>
 
-
+philanthropy is not real. It's giving back what should never have been taken in the first place. Greedy motherfucker's helping themselves sleep at night. But still giving them power. Usually by putting their fucking names on everything from Carnegie to Chase. These are pathetic human slobs who killed far more than they helped. Yes, killed.
