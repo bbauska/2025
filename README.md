@@ -31,7 +31,7 @@ Code damn
 My code school
 DesignCourse
 
-Pride is the unwillingness to be wrong.
-Humility is the opposite.
+<h2>Pride is the unwillingness to be wrong.</h2><br>
+<h2>Humility is the opposite.</h2>
 
 
