@@ -38,3 +38,14 @@ philanthropy is not real. It's giving back what should never have been taken in 
 
 When asked how Fascism starts, Bertrand Russell once said: "First, they fascinate the fools. Then, they muzzle the intelligent."
 
+Fealty towards fascism.
+
+BMW's are fast<br>
+Ferrarri's are faster<br>
+Musk's fucking Tesla Motors is fascist
+(a company he stole and did not create)
+
+
+
+
+
