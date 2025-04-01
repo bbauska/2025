@@ -45,7 +45,7 @@ Ferrarri's are faster<br>
 Musk's fucking Tesla Motors is fascist
 (a company he stole and did not create)
 
-
+Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70^%. Depending on who did the survey.
 
 
 
