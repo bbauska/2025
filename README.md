@@ -45,7 +45,10 @@ Ferrarri's are faster<br>
 Musk's fucking Tesla Motors is fascist
 (a company he stole and did not create)
 
-Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70^%. Depending on who did the survey.
+Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70%. Depending on who did the survey.
+
+Attack science and become an oligarch. You can NOT disprove science. It's fucking science. There is no MORE truth than that.
+But if you do you are brainwashed. You're a MAGA idiot. I have no time for you. Ever again. Never. Fuck you and your LIES!
 
 
 
