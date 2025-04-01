@@ -35,3 +35,6 @@ DesignCourse
 <h2>Humility is the opposite.</h2>
 
 philanthropy is not real. It's giving back what should never have been taken in the first place. Greedy motherfucker's helping themselves sleep at night. But still giving them power. Usually by putting their fucking names on everything from Carnegie to Chase. These are pathetic human slobs who killed far more than they helped. Yes, killed.
+
+When asked how Fascism starts, Bertrand Russell once said: "First, they fascinate the fools. Then, they muzzle the intelligent."
+
