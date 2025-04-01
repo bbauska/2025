@@ -50,5 +50,6 @@ Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70%. Depen
 <p>Attack science and become an oligarch. You can NOT disprove science. It's fucking science. There is no MORE truth than that.</p>
 <p>But if you do you are brainwashed. You're a MAGA idiot. I have no time for you. Ever again. Never. Fuck you and your LIES!</p>
 
+Most Republican congressmen don't listen to their constituencies. Period.
 
 
