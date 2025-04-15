@@ -1,87 +1,96 @@
-# 2025
-March 20, 2025 a start to the fight against big fucks small. fuck libertarian liars.
-Link: www.tutsplus.com
+<h1>2025</h1>
+<p>March 20, 2025 a start to the fight against big fucks small. fuck libertarian liars.</p>
+<a href="www.tutsplus.com">Tutsplus.com</a>
 
 <ol>
-<li>Step 1: Learn HTML and CSS(do not ignore).</li>
-<li>Step 2: Responsive Design and Design Concepts.</li>
-<li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
-<li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
-<li>Step 5: Pick up some sql basics.</li>
-<li>Step 6: Develop a basic app that you find interesting.</li>
-<li>Step 7: Get used to using a web framework. Laravel for php or rails for ruby.</li>
+  <li>Step 1: Learn HTML and CSS(do not ignore).</li>
+  <li>Step 2: Responsive Design and Design Concepts.</li>
+  <li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
+  <li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
+  <li>Step 5: Pick up some sql basics.</li>
+  <li>Step 6: Develop a basic app that you find interesting.</li>
+  <li>Step 7: Get used to using a web framework. Laravel for php or rails for ruby.</li>
 </ol>
-Those are somethings I can think of right now. It does take a good amount of time and practice 
+<p>Those are somethings I can think of right now. It does take a good amount of time and practice 
 to understand the different pieces. So don't expect to start today and finish it off by tomorrow. 
 The key is to keep learning and keep doing it. Just make sure you love what you do and you'll 
-be good in no time :).
-
-Start by exploring basic web development concepts through YouTube tutorials. Channels like 
+be good in no time :).</p>
+<p>Start by exploring basic web development concepts through YouTube tutorials. Channels like 
 Sonny Sangha, Code With Antonio, and JavaScript Mastery offer beginner-friendly videos that 
 introduce you to the world of web development. Spend some time each day watching these 
-tutorials to get comfortable with the basics.
-
-The new bostan
-Derek banas
-Slidenerd
-Programming knowledge
-Travery media
-Clever programmer
-Code damn
-My code school
-DesignCourse
+tutorials to get comfortable with the basics.</p>
+<ul>
+  <li>The new bostan</li>
+  <li>Derek banas</li>
+  <li>Slidenerd</li>
+  <li>Programming knowledge</li>
+  <li>Travery media</li>
+  <li>Clever programmer</li>
+  <li>Code damn</li>
+  <li>My code school</li>
+  <li>DesignCourse</li>
+</ul>
 
 <h2>Pride is the unwillingness to be wrong.</h2>
 <h2>Humility is the opposite.</h2>
 
-philanthropy is not real. It's giving back what should never have been taken in the first place. Greedy motherfucker's helping themselves sleep at night. But still giving them power. Usually by putting their fucking names on everything from Carnegie to Chase. These are pathetic human slobs who killed far more than they helped. Yes, killed.
+<p>philanthropy is not real. It's giving back what should never have been taken in the first place.
+Greedy motherfucker's helping themselves sleep at night. But still giving them power. Usually by
+putting their fucking names on everything from Carnegie to Chase. These are pathetic human slobs who
+killed far more than they helped. Yes, killed.</p>
 
-When asked how Fascism starts, Bertrand Russell once said: "First, they fascinate the fools. Then, they muzzle the intelligent."
+<p>When asked how Fascism starts, Bertrand Russell once said: "First, they fascinate the fools. Then,
+they muzzle the intelligent."</p>
 
-Fealty towards fascism.
+<p>Fealty towards fascism.</p>
 
-BMW's are fast<br>
+<p>BMW's are fast<br>
 Ferrarri's are faster<br>
-Musk's fucking Tesla Motors is fascist
-(a company he stole and did not create)
+Musk's fucking Tesla Motors is fascist<br>
+(a company he stole and did not create)</p>
 
-Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70%. Depending on who did the survey.
+<p>Drump's lies are FOR the MAGA. Against the other 60% of Americans. Or 70%. Depending on who did 
+the survey.</p>
 
-<p>Attack science and become an oligarch. You can NOT disprove science. It's fucking science. There is no MORE truth than that.</p>
-<p>But if you do you are brainwashed. You're a MAGA idiot. I have no time for you. Ever again. Never. Fuck you and your LIES!</p>
+<p>Attack science and become an oligarch. You can NOT disprove science. It's fucking science. 
+There is no MORE truth than that.</p>
 
-Most Republican congressmen don't listen to their constituencies. Period.
+<p>But if you do you are brainwashed. You're a MAGA idiot. I have no time for you. Ever again. 
+Never. Fuck you and your LIES!</p>
 
-Zombie Politics and Culture in the Age of Casino Capitalism
-Zombie Politics and Culture in the Age of Casino Capitalism ; Language: English ; Keywords: 
-culture zombies Politics justice youth democracy military psychology ...
+<p>Most Republican congressmen don't listen to their constituencies. Period.</p>
 
-Malignant Legality
+<h3>Zombie Politics and Culture in the Age of Casino Capitalism</h3>
 
-In his book, Zombie Politics and Culture in the Age of Casino Capitalism, author and scholar 
+<h4>Zombie Politics and Culture in the Age of Casino Capitalism ; Language: English ; 
+Keywords: culture zombies Politics justice youth democracy military psychology ...</h4>
+
+<h3>Malignant Legality</h3>
+
+<p>In his book, Zombie Politics and Culture in the Age of Casino Capitalism, author and scholar 
 Henry Giroux connects the dots to prove his theory that our current system is informed by a 
-"machinery of social and civil death" that chills "any vestige of a robust democracy."
+"machinery of social and civil death" that chills "any vestige of a robust democracy."</p>
 
-This week on Moyers & Company, Giroux explains that such a machine turns "people who are 
+<p>This week on Moyers & Company, Giroux explains that such a machine turns "people who are 
 basically so caught up with surviving that they become like the walking dead -- they lose 
-their sense of agency, they lose their homes, they lose their jobs."
+their sense of agency, they lose their homes, they lose their jobs."</p>
 
-What's more, Giroux points out, the system that creates this vacuum has little to do with 
+<p>What's more, Giroux points out, the system that creates this vacuum has little to do with 
 expanding the meaning and the substance of democracy itself. Under "casino capitalism," 
 the goal is to get a quick return, taking advantage of a kind of logic in which the only 
 thing that drives us is to put as much money as we can into a slot machine and hope we 
-walk out with our wallets overflowing.
+walk out with our wallets overflowing.</p>
 
-A cultural and social critic of tireless energy and vast interests, Giroux holds the Global 
+<p>A cultural and social critic of tireless energy and vast interests, Giroux holds the Global 
 TV Network Chair in the English and Cultural Studies Department at McMaster University and 
-is a distinguished visiting professor at Reyerson University, both schools in Canada.
+is a distinguished visiting professor at Reyerson University, both schools in Canada.</p>
 
-“Virtue . . . must prevail at the expense of the good man as well; absolute, natural innocence, 
+<p>“Virtue . . . must prevail at the expense of the good man as well; absolute, natural innocence, 
 Cbecause it can only act violently, is “at war with the peace of the world and the true welfare 
 of mankind,” so that virtue finally interferes not to prevent the crime of evil but to punish 
-the violence of absolute innocence.“[xxxiii]
+the violence of absolute innocence.“[xxxiii]</p>
 
-Quoting Melville once again, Arendt highlights virtue as the trait that permits indirection because 
+<p>Quoting Melville once again, Arendt highlights virtue as the trait that permits indirection because 
 it allows Captain Vere to distance himself from both Claggart and Billy Budd and adhere to the law. 
 If virtue deems it better “to suffer wrong than to do wrong,” Arendt claims that compassion “will 
 transcend this by stating in complete and even naïve sincerity that it is easier to suffer than to 
@@ -93,17 +102,17 @@ Arendt expresses her conviction of the problem with the absolute: “the absolut
 everyone when it is introduced into the political realm.”[xxxv]  It is at the moment that Melville’s 
 story requires judicial action that the realms of the literary and the political come together in 
 Billy Budd’s tale, and Arendt ably perceives the lesson therein since she reads Billy’s story as a 
-case for virtue and politics in preserving order and stability.
+case for virtue and politics in preserving order and stability.</p>
 
-<new article re: Henry Giroux>
+&lt;new article re: Henry Giroux&gt;
 
 https://wildculture.com/article/post-catastrophe-counselling-henry-giroux/2025
 
-Post-Catastrophe Counselling . . . with Henry Giroux
-by Henry A. Giroux , Whitney Smith
-Published: Nov 30, 2024
+<h3>Post-Catastrophe Counselling . . . with Henry Giroux</h3>
+<p><small><small>by Henry A. Giroux , Whitney Smith</small></small></p>
+<p><small><small>Published: Nov 30, 2024</small></small></p>
 
-Where do we go from here? . . . Perhaps a good way to start is to pose questions to one of 
+<p>Where do we go from here? . . . Perhaps a good way to start is to pose questions to one of 
 our contributors, American-Canadian scholar and cultural critic, Henry Giroux — who, wrote 
 journalist Keith Morrison, is "one of the fifty most influential figures in 20th-century 
 educational discourse." For instance, we'd like to know what the election of Donald Trump 
@@ -112,14 +121,14 @@ Giroux's analysis has been helpful to us in facing certain truths we experience 
 not necessarily aware of, like: ". . . to really recognize that what America has become is 
 not unlike what Donald Trump actually is, and that is a country that basically has a long 
 legacy of racism, extermination, bigotry, and misinformation." ¶ Ladies and gentlemen, 
-Henry Giroux, in conversation with Whitney Smith.
+Henry Giroux, in conversation with Whitney Smith.</p>
 
 Body
 Koala in clearcut forest
 
 Gathering up the pieces . . . a Koala bear surveys its neighborhood turned to rubble. [o]
 
-<interview begins..>
+&lt;interview begins..&gt;
 
 WHITNEY SMITH  Let’s begin with the long view of history. Today is November 15, ten days 
 after the 2024 US election, the kind of election that has happened before, in different 
@@ -194,14 +203,14 @@ all about the media. It was all about mobilizing ideas. It was all about appeali
 scapegoats. It was all about resurrecting a notion of what's normal within the confines 
 of a white supremacist discourse, and we are watching that happen again this time.
 
-<image>
+&lt;image&gt;
 Frederick-Douglass-and-Eva-Pitts-Douglass_wildculture.com
 
 An escaped slave who became a leading abolitionist, orator, and writer, Frederick Douglass 
 advocated for the end of slavery and for civil rights for African Americans. From left to 
 right, Frederick Douglass, Eva Pitts, Helen Pitts, later Douglass' second wife. [o]
 
-<interview continues...>
+&lt;interview continues...&gt;
  
 SMITH  So the inclination toward fascism was a covert aspect of American politics in the 
 last few decades is something we're beginning to understand. But now we're seeing it 
@@ -255,13 +264,13 @@ carceral state? What we did see in Germany, as the punishing state rose, was the
 decline of the social state, and that's exactly what we're seeing here. That's 
 exactly what's being promised.
 
-<image>
+&lt;image&gt;
 Jane Addams and female students_journal of wild culture ©2024.jpg
 
 Jane Addams was a pioneer in social work and the settlement house movement and a leader 
 in women’s suffrage and world peace. [o]
 
-<interview continues...>
+&lt;interview continues...&gt;
 
 SMITH Looking back at the 1930s in Germany and the Eichmann trials in the 1960s, and 
 Hannah Arendt's take on it, we almost automatically ask: "How could this happen? How 
@@ -315,7 +324,7 @@ Now, when I was younger, the debate in the ‘60s and ‘70s was about whether s
 
 Now, to go back to your German analogy, the Nazi analogy, that's exactly what happened in Hitler’s Nazi Germany, it's exactly what happened in Pinochet's Chile. I mean, in Chile, professors were taken up in helicopters and thrown off into the woods somewhere or tortured. The first group, the first enemy of authoritarianism, comprises the scholars and journalists that challenge  rising authoritarianism, but we need to extend that to the institutions that would challenge it. And that's the state we're in today.
 
-<image>
+&lt;image&gt;
 W.E.B. Du Bois, W.E.B. Du Bois; Pan-African Congress 1919
 
 A sociologist, historian, and civil rights activist, W.E.B duBois (1868-1963) 
@@ -323,7 +332,7 @@ co-founded the NAACP and the first-ever Pan-African Congress in 1919, organized
 to demand freedom for colonized African countries and a greater voice for Africans 
 worldwide. [o]
 
-<interview continues...>
+&lt;interview continues...&gt;
 
 SMITH  You've spoken about education. I have a sense that you have thought a lot about how the United States is, in some ways, very different and very similar to China — in that the dark seeds of the Civil War, like China's Cultural Revolution, is still present in the minds of many Americans.
 
@@ -338,12 +347,12 @@ GIROUX  Look, 70% of blacks voted for Kamala Harris. I’m not sure what the exa
 I mean, we had people of color in the Bush administration who were warmongers. Color doesn't care; we have a Supreme Court Justice who is an outright unadulterated racist and authoritarian. The color doesn't matter, unless that experience is mediated through a theoretical or conceptual framework that allows people to basically understand both who they are, what their relationship is to others in the larger world in a critical and attentive way, that they're as susceptible as anybody else to authoritarian impulses.
 
  
-<image>
+&lt;image&gt;
 Eugene Debs & Bernie Sanders_US socialism_wildculture.com
 
 Eugene V. Debs (1855-1926), a labor leader and five-time Socialist Party candidate for US President, he advocated for workers’ rights and social justice. Bernie Sanders, a contemporary politician known for his advocacy of democratic socialism and progressive policies on healthcare, education, and income inequality.
 
-<interview continues...>
+&lt;interview continues...&gt;
 
 SMITH  Let’s say there is a Black or Latino person who is aware of Trump’s racist rhetoric, yet there are other issues that allow them to dismiss it.
 
@@ -375,7 +384,7 @@ Third, there needs to be a massive educational movement in this country, in whic
 
  
 
-<image>
+&lt;image&gt;
 Margaret Sanger_Birth Control Review
 
 Margaret Sanger (1879-1966), an activist who opened the first birth control clinic in the U.S. and founded organizations that evolved into Planned Parenthood.
@@ -511,7 +520,7 @@ have to do it in a way that brings together joyous communities, as Martin Luther
 said, beloved communities, and we have to do it in a way that the discourse of inclusion 
 becomes inseparable from the discourse of equality and justice.
 
-<image>
+&lt;image&gt;
 Rachel Carson_great 20th century activists
 
 A marine biologist and conservationist, Rachel Carson (1906-1964) wrote the book Silent 
@@ -561,7 +570,7 @@ Education in a Time of Crisis (2021); Pedagogy of Resistance: Against Manufactur
 and coauthored with Anthony DiMaggio, Fascism on Trial: Education and the Possibility of 
 Democracy (2025). He lives in Hamilton, Ontario.
 
-<end>
+&lt;end&gt;
 
 American politics, heroes of dissent, dissent, Henry A. Giroux
 New Articles
