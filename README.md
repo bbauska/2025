@@ -439,15 +439,13 @@ understand the way in which certain elements of fascism in the past that were no
 now are strong. No, we don't have concentration camps. We just have a carceral state in which 
 5% of the population is in prison. So, we need to be careful with the refusal to acknowledge 
 that.
- 
 
+&lt;image&gt;
 Cesar Chavez_examples of great activists
 
 Cesar Chavez (1927-1993), labor leader and civil rights activist, speaks to members of the 
 United Farm Workers during a rally in the Imperial Valley, 1979. The UFW was staging a lettuce 
 growers strike. [o]
-
- 
 
 SMITH  Joseph Stiglitz, the Nobel Prize–winning economist, has just published a book called The 
 Road to Freedom: Economics and the Good Society, where he examines how free markets have 
@@ -558,8 +556,7 @@ today.
 
 SMITH  Thanks very much.
 
-GIROUX  It’s great. It's invigorating. Thanks a lot. ≈ç
- 
+GIROUX  It’s great. It's invigorating. Thanks a lot.
 
 HENRY A. GIROUX currently holds the McMaster University Chair for Scholarship in the Public 
 Interest in the English and Cultural Studies Department and is the Paulo Freire Distinguished 
@@ -597,9 +594,14 @@ The Politics of Resentment in Trump's America
 Democracies in Exile: A Blueprint for Dangerous Times
 How the Right to Assembly Gets Fudged
 A Revolutionary Moment: Morsels of Insight from Chris Hedges' Wages of Rebellion
+
 EVENTS
 The SPWC exists as much offline as it does here online (well, not really, but it sounds 
 good.). View some forthcoming Wild Culture events.
+
+<h1>Elon Musk &amp; DOGE overpromises and underdelivers</h1>
+<p>Such a fucking liar</p>
+<h2>As bad as the military industrial complex</h2>
 
 
 
