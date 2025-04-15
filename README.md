@@ -5,7 +5,7 @@
 <ol>
   <li>Step 1: Learn HTML and CSS (do not ignore).</li>
   <li>Step 2: Responsive Design and Design Concepts.</li>
-  <li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
+  <li>Step 3: Javascript and jQuery (tutsplus has a free jquery course).</li>
   <li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
   <li>Step 5: Pick up some sql basics.</li>
   <li>Step 6: Develop a basic app that you find interesting.</li>
