@@ -3,7 +3,7 @@
 <a href="www.tutsplus.com">Tutsplus.com</a>
 
 <ol>
-  <li>Step 1: Learn HTML and CSS(do not ignore).</li>
+  <li>Step 1: Learn HTML and CSS (do not ignore).</li>
   <li>Step 2: Responsive Design and Design Concepts.</li>
   <li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
   <li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
