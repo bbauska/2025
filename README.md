@@ -321,7 +321,6 @@ GIROUX  It was always conscious. Milton Friedman famously argued that businesses
 
 Now, when I was younger, the debate in the ‘60s and ‘70s was about whether schools were democratic institutions or simply places that trained people for the workplace. Now, we finally arrived at the end point, where people are censoring education, like DeSantis in Florida and a number of right-wing governors who now have even greater power, as does Trump, and a vice president who says that professors are the enemy. And, of course, all of us who have a critical function in education, we're Marxist vermin, and whatever else they want to call us. But I think now what we have is not whether schools are for democracy or whether schools are for the workplace, now they're indoctrination centers, now they ban books, now they reconstruct history to eliminate those aspects of history that need to be learned so that they will never be repeated. Now they tell professors that if they talk about anything, from abortion rights to women's rights to slavery, they can be fired. So, we have seen the end point of this endless attempt to strip education of its critical and ethical functions.
 
-
 Now, to go back to your German analogy, the Nazi analogy, that's exactly what happened in Hitler’s Nazi Germany, it's exactly what happened in Pinochet's Chile. I mean, in Chile, professors were taken up in helicopters and thrown off into the woods somewhere or tortured. The first group, the first enemy of authoritarianism, comprises the scholars and journalists that challenge  rising authoritarianism, but we need to extend that to the institutions that would challenge it. And that's the state we're in today.
 
 &lt;image&gt;
@@ -382,14 +381,11 @@ Second, it seems to me we need a new language. I mean, we need to think through 
 
 Third, there needs to be a massive educational movement in this country, in which literacy, civic and otherwise, is directly linked to the fight and the struggle for democracy.
 
- 
 
 &lt;image&gt;
 Margaret Sanger_Birth Control Review
 
 Margaret Sanger (1879-1966), an activist who opened the first birth control clinic in the U.S. and founded organizations that evolved into Planned Parenthood.
-
- 
 
 Fourth, we have to mobilize young people to be cultural producers and not just cultural critics. I’m older than you are, but our generation grew up in a print culture, whereas this new generation is informed by social media. My students know everything about social media, and they have skills to basically break through these massive disinformation machines that have utterly depoliticized people and sold them an ideology that is nothing but the swindle of fulfillment. They can do this. I have a lot of faith in young people, they're border-crossers, they're interdisciplinary, they talk to young people in other countries, they know how to use the media; and it seems to me, while they have been written out of the script of democracy in the past, they are really being written out of the script of democracy now, and they're going to face a series of issues—from climate change to racism to the destruction of higher and public education—unlike any generation that has come along. This is the most massive political, economic, educational, historical crisis since the civil war. That's the state we're in now. And all you have to do is listen to the language of the Trump administration and look at the people who are being appointed to it and look at what they will do once they're in power. This isn't ambiguous. There's nothing ambiguous about this, you know.
 
@@ -570,24 +566,43 @@ Democracy (2025). He lives in Hamilton, Ontario.
 &lt;end&gt;
 
 American politics, heroes of dissent, dissent, Henry A. Giroux
+
 New Articles
+
 Trade!
+
 Western Songs and the Myth of the Cowboy
+
 Honey Bee Social Evolution
+
 A Young Classicist Goes All the Way
+
 Eat and Don't Get Eaten
+
 Most Read
+
 A Rough Sex Scandal
+
 Anarchist Anthropology: Power with Hierarchy
+
 Rethinking Psychiatry
+
 Journey to the Landfill
+
 The Pattern that Connects: Gregory Bateson and the Ecology of Mind
+
 Different Articles
+
 Post-Catastrophe Counselling . . . with Henry Giroux
+
 In the Absence of Heroes, I Present Bertrand Russell
+
 The Politics of Resentment in Trump's America
+
 Democracies in Exile: A Blueprint for Dangerous Times
+
 How the Right to Assembly Gets Fudged
+
 Similar Articles
 In the Absence of Heroes, I Present Bertrand Russell
 The Politics of Resentment in Trump's America
@@ -595,7 +610,7 @@ Democracies in Exile: A Blueprint for Dangerous Times
 How the Right to Assembly Gets Fudged
 A Revolutionary Moment: Morsels of Insight from Chris Hedges' Wages of Rebellion
 
-EVENTS
+<h2>EVENTS</h2>
 The SPWC exists as much offline as it does here online (well, not really, but it sounds 
 good.). View some forthcoming Wild Culture events.
 
