@@ -620,3 +620,14 @@ good.). View some forthcoming Wild Culture events.
 
 
 
+<h1>Sinclair Broadcasting</h1>
+<p>294 television stations, all saying the same thing. Pro fucking rich & corporations.<p>
+<p>Regan deregulated radio/television.</p>
+<p>Now they may lie.</p>
+<p>Fair and balanced?<p>
+<p><mark class="pink">Bull</mark> fucking shit!</p>
+<p>The FBI spends an inordinate amount of time (and our tax dollar) on protecting the pathetic rich.</p>
+
+<h2>Stephen A. Smith</h2>
+
+
